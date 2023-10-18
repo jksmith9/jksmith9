@@ -4,4 +4,4 @@ description: Out here trying my best.<br /><br /><a href="https://github.com/jks
 google_analytics: G-SN4T9SRSPB
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-theme-minimal
