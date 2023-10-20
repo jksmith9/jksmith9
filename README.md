@@ -1,5 +1,8 @@
 ## 👋 My name is Josh and I'm doing my best
 
+I'm a machine learning engineer with a focus on data & advanced analytics implementations
+
+You'll find me here trying out new ideas and committing to my secret work repos 🤫.
 
 
 ### New
