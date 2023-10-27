@@ -5,6 +5,7 @@ I'm a machine learning engineer with a focus on data & advanced analytics implem
 You'll find me here trying out new ideas and committing to my secret work repos 🤫.
 
 
+### ⚠️ Under Construction ⚠️ 
 ### New
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget gravida cum sociis natoque penatibus et magnis dis parturient. Diam phasellus vestibulum lorem sed risus ultricies tristique. Nec dui nunc mattis enim ut tellus. Mattis nunc sed blandit libero volutpat sed cras ornare. Egestas tellus rutrum tellus pellentesque eu. Nisl pretium fusce id velit ut tortor pretium viverra. Integer quis auctor elit sed vulputate mi sit amet. Quis lectus nulla at volutpat diam ut venenatis. Sed velit dignissim sodales ut eu. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt.
