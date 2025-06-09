@@ -1,18 +1,18 @@
 ## 👋 My name is Josh and I'm doing my best
 
-I'm a machine learning engineer with a focus on data & advanced analytics implementations
+I'm a machine learning engineer with a focus on data & advanced analytics implementations. Additionally, I have strong passion for express and thoughtful deployments using MLOps principles.
 
 You'll find me here trying out new ideas and committing to my secret work repos 🤫.
 
 
 ### ⚠️ Under Construction ⚠️ 
-### New
+###  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget gravida cum sociis natoque penatibus et magnis dis parturient. Diam phasellus vestibulum lorem sed risus ultricies tristique. 
+### Podcast Producer
 
-### Not so new
+<img src="https://github.com/jksmith9/jksmith9/blob/master/images/IBBCoverGraphic.jpg" height="280">
 
-Semper eget duis at tellus at urna. Tortor pretium viverra suspendisse potenti. Euismod in pellentesque massa placerat. Amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Mauris a diam maecenas sed enim ut sem. Diam sit amet nisl suscipit adipiscing bibendum. 
+My partner and I have produced a podcast together! She creates the content and conducts interviews, while I do all of the audio engineering, from recording to production to final mix and masters. You can find us here https://podcasts.apple.com/us/podcast/ive-been-better/id1550231357 or wherever you get your podcasts.
 
 ### Older than new
 
