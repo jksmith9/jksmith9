@@ -22,11 +22,11 @@ The end result is a visual of some examples after creating the word embeddings. 
 
 ### Forked 17lands Bot for Magic: The Gathering
 
+<img src="https://github.com/user-attachments/assets/4e2645a3-8465-4f1c-b34e-96c1193febd5" height="180">
+
 I enjoy playing Magic like many other nerds. But, what I find more intriguing is the stats around the enterprise. [17lands.com](https://www.17lands.com/) Is a site that compiles many digital players' data across many sets and formats. Using this data many people have built applications and APIs to utilize this data for products or analysis. 
 
 One such example of this is the 17lands-helper bot here https://github.com/JasonYe4273/17lands-helper from JasonYe4273, ZacharyMN709, and JasonILTG. The project hasn't seen an update in a while and I wanted to make some improvements, so I've forked it here https://github.com/jksmith9/17lands-helper. With that I deployed it using fly.io and few discord integrations to get it to work with some of the discords I use to have the data become queryable for any card in our private discords.
-
-<img src="https://github.com/user-attachments/assets/4e2645a3-8465-4f1c-b34e-96c1193febd5" height="180">
 
 ### Podcast Producer
 
