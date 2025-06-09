@@ -1,5 +1,3 @@
-### ⚠️ Under Construction ⚠️ 
-
 ## 👋 My name is Josh and I'm doing my best
 
 I'm a machine learning engineer with a focus on data & advanced analytics implementations. Additionally, I have strong passion for express and thoughtful deployments using MLOps principles. I started off in the NLP space and have loved that area ever since, especially with the growth of LLMs and agentic workflows.
