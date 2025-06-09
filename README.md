@@ -21,7 +21,9 @@ My partner and I have produced a podcast together! She creates the content and c
 
 #### Music Producer
 
-In addition to podcasting, I've composed many musical and orchestral pieces. I've played guitar for over 20 years and piano for 7.
+In addition to podcasting, I've composed many musical and orchestral pieces. I've played guitar for over 20 years and piano for 7. See examples below!
+
+https://github.com/jksmith9/jksmith9/blob/master/public/jjglyph-master.mp3?raw=true
 
 ## Appendix
 
