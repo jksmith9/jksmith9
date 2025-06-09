@@ -23,10 +23,14 @@ My partner and I have produced a podcast together! She creates the content and c
 
 In addition to podcasting, I've composed many musical and orchestral pieces. I've played guitar for over 20 years and piano for 7. See examples below!
 
-https://github.com/jksmith9/jksmith9/blob/master/public/jjglyph-master.mp3?raw=true
+https://github.com/user-attachments/assets/45fc950d-c0ab-4be1-9324-6f71232c542e
+
 
 ## Appendix
 
 ### Talks
+
+
+
 
 Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Quis ipsum suspendisse ultrices gravida dictum fusce. Vel eros donec ac odio tempor orci dapibus ultrices in. Ut aliquam purus sit amet luctus venenatis lectus magna. Sit amet purus gravida quis blandit. Vitae tempus quam pellentesque nec nam aliquam sem. 
