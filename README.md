@@ -15,7 +15,7 @@ You'll find me here trying out new ideas and committing to my secret work repos 
 
 ### Podcast Producer
 
-<img src="https://github.com/jksmith9/jksmith9/blob/master/images/IBBCoverGraphic.jpg" height="280">
+<img src="https://github.com/jksmith9/jksmith9/blob/master/images/IBBCoverGraphic.jpg" height="220">
 
 My partner and I have produced a podcast together! She creates the content and conducts interviews, while I do all of the audio engineering, from recording to production to final mix and masters. You can find us here https://podcasts.apple.com/us/podcast/ive-been-better/id1550231357 or wherever you get your podcasts.
 
