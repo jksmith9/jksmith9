@@ -9,6 +9,7 @@ You'll find me here trying out new ideas and committing to my secret work repos 
 
 ## Data Science
 
+### NLP Exploration
 <img src="https://github.com/jksmith9/jksmith9/blob/master/images/hp_vectors.png" height="420">
 
 A fun talk I did many years ago consisted of exploring the Harry Potter book series and the word embeddings. The idea was to track how they changed over time and how the cosine similarities drifted or aligned based on which book in the series we were observing. You can find all the resources hosted publicly on this drive link here [bit.ly/hp-vectors](https://bit.ly/hp-vectors). The end result is a visual of some examples after creating the word embeddings. A follow up in this space would be test out using an LLM to ask questions about each concept from each book and observe the response adjustments as new texts are added. E.g. Harry being highly related to Gryfindor early in the series, but as we learn of his lineage to house Slytherin, those concepts start to converge.
