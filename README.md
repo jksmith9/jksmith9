@@ -34,7 +34,7 @@ My partner and I have produced a podcast together! She creates the content and c
 
 ### Music Producer
 
-In addition to podcasting, I've composed many musical and orchestral pieces. I've played guitar for over 20 years and piano for 7 years. See some examples below!
+In addition to podcasting, I've composed many musical and orchestral pieces. I've played guitar for over 20 years and piano for 7 years. I have a decently outfitted home studio I produce in. My favorite DAW is Reaper. See some examples below!
 
 https://github.com/user-attachments/assets/45fc950d-c0ab-4be1-9324-6f71232c542e
 
