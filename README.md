@@ -8,7 +8,7 @@ You'll find me here trying out new ideas and committing to my secret work repos 
 ## Data Science
 
 ### NLP Exploration
-<img src="https://github.com/jksmith9/jksmith9/blob/master/images/hp_vectors.png" height="420">
+<img src="https://github.com/user-attachments/assets/f849efe8-4c10-4627-bc1d-188c44e17e02" height="420">
 
 A fun talk I did many years ago consisted of exploring the Harry Potter book series and the word embeddings. The idea was to track how they changed over time and how the cosine similarities drifted or aligned based on which book in the series we were observing. You can find all the resources hosted publicly on this drive link here [bit.ly/hp-vectors](https://bit.ly/hp-vectors). 
 
@@ -28,7 +28,7 @@ One such example of this is the 17lands-helper bot here https://github.com/Jason
 
 ### Podcast Producer
 
-<img src="https://github.com/jksmith9/jksmith9/blob/master/images/IBBCoverGraphic.jpg" height="220">
+<img src="https://github.com/user-attachments/assets/a5beb1f6-ce72-4932-9d48-e5dde0363b8c" height="220">
 
 My partner and I have produced a podcast together! She creates the content and conducts interviews, while I do all of the audio engineering, from recording to production to final mix and masters. You can find us here https://podcasts.apple.com/us/podcast/ive-been-better/id1550231357 or wherever you get your podcasts.
 
